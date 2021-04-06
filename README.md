@@ -15,4 +15,4 @@ Here you can find a brief summary of the topics I learned.
 
 *Time Management*
 
-*~~I learned what not to do~~*
+*~~I learned what not to do.~~*
