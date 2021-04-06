@@ -13,6 +13,6 @@ Here you can find a brief summary of the topics I learned.
 
 *learned how to use multiple online resources to get the desired result.*
 
-*Time Management*
+*Time Management.*
 
 *~~I learned what not to do.~~*
